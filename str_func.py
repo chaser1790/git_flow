@@ -6,8 +6,6 @@ def uppercase_string(input_string):
     :return: Строка с заглавными буквами
     """
     return input_string.upper()
-
-
 def capitalize_first_letters(input_string):
     """
     Функция, которая делает заглавными первые буквы каждого слова в строке.
