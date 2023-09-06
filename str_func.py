@@ -6,3 +6,4 @@ def uppercase_string(input_string):
     :return: Строка с заглавными буквами
     """
     return input_string.upper()
+    
